@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011722345635",
+    "project_id": "tailortech-1112",
+    "storage_bucket": "tailortech-1112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011722345635:android:aec476de8146918a9ff316",
+        "android_client_info": {
+          "package_name": "com.dev.tailortech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJSRgpr85ShNJaIdMISba6ysEj8vnfe1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
